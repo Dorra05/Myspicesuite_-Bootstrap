@@ -1,5 +1,7 @@
 
-
+body {
+    background-color: rgb(240, 237, 237);
+}
 .hero {
 
     background-image:  url('https://handirect.fr/wp-content/uploads/2018/07/Fotolia_191057762_M-WEB.jpg') ;
